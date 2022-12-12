@@ -1,0 +1,8 @@
+
+Javajs
+Docker
+Mysql
+sequelize
+express
+cors
+dotenv
